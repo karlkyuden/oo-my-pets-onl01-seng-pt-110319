@@ -9,5 +9,8 @@ class Owner
     @@all << self
   end
   
+  def species
+    
+  
   
 end
