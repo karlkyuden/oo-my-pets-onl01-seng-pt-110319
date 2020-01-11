@@ -10,7 +10,7 @@ class Owner
   end
   
   def species
-    "I am a human."
+    I am a human.
   end
   
   
